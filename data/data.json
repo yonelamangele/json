@@ -1,0 +1,100 @@
+{
+    "aboutMe": "My name is Yonela and I am craving a steak and kidney pie",
+    "projects": [
+        {
+            "name": "calculator",
+            "github": "https://yonelamangele.github.io/Task-3/",
+            "vercel": "https://task-3-red.vercel.app/",
+            "description": "",
+            "image": ""
+        },
+        {
+            "name": "bmi-calculator",
+            "github": "https://yonelamangele.github.io/bmi/",
+            "vercel": "https://bmi-theta-three.vercel.app/",
+            "description": "",
+            "image": ""
+        },
+        {
+            "name": "keyboard",
+            "github": "https://yonelamangele.github.io/keyboard/",
+            "vercel": "https://keyboard-snowy.vercel.app/",
+            "description": "",
+            "image": ""
+        },
+        {
+            "name": "temperature-converter",
+            "github": "https://yonelamangele.github.io/Temperature-Converter/",
+            "vercel": "https://temperature-converter-beta-jade.vercel.app/",
+            "description": "",
+            "image": ""
+        }
+    ],
+    "education": [
+        {
+            "description": "",
+            "year": "2nd April - to present/current",
+            "placeOfInstitution": "life choices coding academy",
+            "contact": [
+                {
+                    "name": "Yonela",
+                    "contactDetails": ""
+                }
+            ]
+        },
+        {
+            "description": "",
+            "year": " - ",
+            "placeOfInstitution": "centre of science and technology",
+            "contact": [
+                {
+                    "name": "Yonela",
+                    "contactDetails": ""
+                }
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "image": "URL",
+
+            "name": "CSS",
+            "image": "URL"
+        }
+    ],
+    "workExp": [
+        {
+            "placeOfWork": "",
+            "year": "",
+            "description": "",
+            "contact": [
+                {
+                    "name": "",
+                    "cell": "",
+                    "position": "",
+                    "email": ""
+                }
+            ]  
+        },
+        {
+            "placeOfWork": "",
+            "year": "",
+            "description": "",
+            "contact": [
+                {
+                    "name": "",
+                    "cell": "",
+                    "position": ""
+                }
+            ]  
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "",
+            "position": "",
+            "message": "",
+            "image": "url"
+        }
+    ]   
