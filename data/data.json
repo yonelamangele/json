@@ -57,8 +57,11 @@
     "skills": [
         {
             "name": "HTML",
-            "image": "URL",
+            "image": "URL"
 
+            
+        },
+        {
             "name": "CSS",
             "image": "URL"
         }
@@ -97,4 +100,5 @@
             "message": "",
             "image": "url"
         }
-    ]   
+    ]
+}   
